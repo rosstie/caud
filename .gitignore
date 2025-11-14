@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Test outputs and data
+test_output/
+*.zarr/
+data/simulation_results/
+results/fig/*.png
+results/fig/*.pdf
+
+# Logs
+*.log
+logs/
+scripts/logs/
+tests/logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+disaster_model_diagnostics.png
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
