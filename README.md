@@ -4,7 +4,7 @@ This repository contains the core model code to accompany the manuscript: *Lands
 
 ## Overview
 
-This codebase implements a simulation model that examines how complex adaptive systems respond to disruption. The model uses NK fitness landscapes to represent problem complexity and simulates multi-agent groups that adapt through social learning and innovation within network structures. The model explores how network density, diversity, and landscape complexity interact to shape collective adaptation under various disruption scenarios.
+This codebase implements a simulation model that examines how complex adaptive systems respond to disruption. The model uses NK fitness landscapes to represent problem complexity and simulates multi-agent groups that adapt through social learning and innovation within network structures. The model explores how network density, diversity, and landscape complexity interact to shape collective adaptation under various disruption scenarios. The models extends builds on the approach from *Network structure shapes  the impact of diversity in collective  learning* - Baumann, Czaplicka & Rahwan (2024)
 
 ## Key Features
 
